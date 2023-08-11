@@ -2,25 +2,6 @@
 ===
 >大数据学习指南，从零开始学习大数据开发，包含大数据学习各个阶段资汇总     
 
-## 公众号
-关注我的公众号：**旧时光大数据**，回复相应关键字，获取更多大数据干货、资料<br>    
-“大数据学习路线”中我自己看过的视频、文档资料可以直接在公众号获取云盘链接  
-
-### 《[大数据面试题 V4.0](https://mp.weixin.qq.com/s/NV90886HAQqBRB1hPNiIPQ)》已出，公众号回复：大数据面试题     
-
-<p align="center">
-<img src="https://github.com/MoRan1607/BigDataGuide/blob/master/Pics/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="200" height="200"/>  
-<p align="center">
-</p>
-</p>    
-
-已开星球，星球内容包括学习路线、学习资料（根据编程语言分了三大版本）、项目、面试题（大数据面试题、Java基础、计算机网络）、800+篇真实面经（已按公司分类）、自己整理的视频学习笔记
-<p align="center">
-<img src="https://raw.githubusercontent.com/qiye0716/picture_typora/main/img/202307011514446.png"  width="300" height="387"/>  
-<p align="center">
-</p>
-</p>  
-
 概述
 ---
 [大数据简介](https://github.com/Dr11ft/BigDataGuide/blob/master/Docs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AE%80%E4%BB%8B.md)
@@ -284,11 +265,4 @@ https://github.com/Dr11ft/BigDataGuide/blob/master/%E9%9D%A2%E8%AF%95/Zookeeper%
 </p>
 </p>  
 
-## 交流群
-交流群建好了，进群的小伙伴可以加我微信：**MoRan1607，备注：GitHub**  
-<p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/%E5%BE%AE%E4%BF%A1.jpg" width="200" height="200"/>  
-<p align="center">
-</p>
-</p>  
 
